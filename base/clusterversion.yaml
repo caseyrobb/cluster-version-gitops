@@ -4,6 +4,6 @@ metadata:
   name: version
 spec:
   channel: PATCH_ME
-  clusterID: 
+  clusterID: 174a54f1-f136-43b5-af34-bb4702e39f48
   desiredUpdate:
     version: PATCH_ME
