@@ -9,7 +9,7 @@ spec:
     server: 'https://kubernetes.default.svc'
   project: default
   source:
-    path: overlays/4.11.40
+    path: overlays/4.11.36
     repoURL: https://github.com/caseyrobb/cluster-version-gitops.git
     targetRevision: master
   syncPolicy:
